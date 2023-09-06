@@ -72,4 +72,6 @@ If you encounter any issues or have questions about using ElCruzoBot, feel free 
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
 Enjoy using CipherScape to stay updated on real-time stock data!
