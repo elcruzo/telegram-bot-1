@@ -15,8 +15,8 @@ Before you can use ElCruzoBot, make sure you have the following prerequisites in
 1. Clone or download this repository to your local machine.
 
    ```bash
-   git clone https://github.com/elcruzo/telegram-bot-1.git
-   cd telegram-bot-1
+   git clone https://github.com/elcruzo/cipher-scape.git
+   cd cipher-scape
    ```
 
 2. Install the `Python Telegram Bot` Library using `pip`:
@@ -66,7 +66,7 @@ Contributions are welcome! If you have ideas for improving CipherScape or want t
 
 ## Support
 
-If you encounter any issues or have questions about using ElCruzoBot, feel free to contact me by [email](mailto:ayomideadekoya266@gmail.com)
+If you encounter any issues or have questions about using CipherScape, feel free to contact me by [email](mailto:ayomideadekoya266@gmail.com)
 
 ## License
 
